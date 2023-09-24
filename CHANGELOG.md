@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/steven130169/automate-release-win/compare/v1.0.0...v1.1.0) (2023-09-24)
+
+
+### Features
+
+* add release.config.js ([02a5f37](https://github.com/steven130169/automate-release-win/commit/02a5f37468815bf250869381a994b43d8583888d))
+
 # 1.0.0 (2023-09-24)
 
 
