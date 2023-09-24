@@ -1,6 +1,6 @@
 {
   "name": "automate-release-win",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,17 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/steven130169/automation-release-win.git"
+    "url": "git+https://github.com/steven130169/automate-release-win.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/steven130169/automation-release-win/issues"
+    "url": "https://github.com/steven130169/automate-release-win/issues"
   },
-  "homepage": "https://github.com/steven130169/automation-release-win#readme",
+  "homepage": "https://github.com/steven130169/automate-release-win#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
-    "husky": "^8.0.0"
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "github:semantic-release/git",
+    "husky": "^8.0.0",
+    "semantic-release": "^22.0.4"
   }
 }
