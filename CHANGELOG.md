@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/steven130169/automate-release-win/compare/v1.1.0...v1.2.0) (2023-09-24)
+
+
+### Features
+
+* add README ([2ee5c0a](https://github.com/steven130169/automate-release-win/commit/2ee5c0aa54b311817054143b1714b2a374491138))
+
 # [1.1.0](https://github.com/steven130169/automate-release-win/compare/v1.0.0...v1.1.0) (2023-09-24)
 
 
