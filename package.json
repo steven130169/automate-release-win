@@ -1,0 +1,19 @@
+{
+  "name": "automate-release-win",
+  "version": "0.0.0",
+  "description": "��#\u0000 \u0000a\u0000u\u0000t\u0000o\u0000m\u0000a\u0000t\u0000e\u0000-\u0000r\u0000e\u0000l\u0000e\u0000a\u0000s\u0000e\u0000-\u0000w\u0000i\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven130169/automation-release-win.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steven130169/automation-release-win/issues"
+  },
+  "homepage": "https://github.com/steven130169/automation-release-win#readme"
+}
